@@ -2,6 +2,7 @@
 
 require_relative 'enumerable_module'
 
+# Class implementing enumerable module
 class MyList
   include MyEnumerable
 
